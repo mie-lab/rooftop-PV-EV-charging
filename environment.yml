@@ -1,0 +1,21 @@
+name: evhomepv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - psycopg2
+  - pyproj
+  - sqlalchemy
+  - pandas
+  - geopandas
+  - shapely
+  - scikit-learn
+  - numpy
+  - scipy
+  - matplotlib
+  - rasterio
+  - pip
+  - pint
+  - spyder
+  - seaborn
+  - pytest
